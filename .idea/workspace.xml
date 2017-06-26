@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="632fdfc1-2bd4-4970-a59b-172b79d0e9e4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Archives</find>
+      <find>share</find>
+      <find>read</find>
+      <find>older</find>
+      <find>obje</find>
+      <find>YOU DON'T</find>
+      <find>HERBAL SALON</find>
+      <find>Kaya</find>
+      <find>services</find>
+      <find>redd</find>
+      <find>Rela</find>
+      <find>SHOTS</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/footer-personalizado.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/sidebar-personalizado.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/single.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/tag.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/sidebar.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/searchform.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/search.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/archive-product.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-product.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/responsive.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/periquito/404.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-filmes.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/taxonomy.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/searchform 2.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-filmes.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-carros.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-carros.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/wp-hello-world-teste-plugin-son/wp-hello-world-teste-plugin-son.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/blog-template.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/single.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-standard.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-image.php" />
+        <option value="G:/FRUTA E RAIZ/BLOG/florence/blogFruta/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/post-pagination.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-grid.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-list.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/post_widget.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/searchform.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/comments.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-page.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.html" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/top-autores/widgets/WidgetTopAutores.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/top-autores/top-autores.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/top-autores/shortcodes/top-author-shortcode.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/top-autores/widgets/widget_top_autores_front_end.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/related.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WordPress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WordPress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WordPress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WordPress" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="php.wordpress.base.configurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Periquito\wordpress\WordPress\wp-content\themes\bootstrap-basic" />
+      <recent name="C:\Users\Periquito\wordpress\WordPress\wp-content\themes\periquito" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="632fdfc1-2bd4-4970-a59b-172b79d0e9e4" name="Default" comment="" />
+      <created>1489011740442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489011740442</updated>
+      <workItem from="1489011741799" duration="1820000" />
+      <workItem from="1489060899186" duration="6115000" />
+      <workItem from="1489148176010" duration="6066000" />
+      <workItem from="1489240984742" duration="2791000" />
+      <workItem from="1489321297872" duration="6241000" />
+      <workItem from="1489495820005" duration="3644000" />
+      <workItem from="1489517849291" duration="1452000" />
+      <workItem from="1489581341764" duration="549000" />
+      <workItem from="1489587042829" duration="1740000" />
+      <workItem from="1489592251214" duration="969000" />
+      <workItem from="1495659358814" duration="4049000" />
+      <workItem from="1495714832073" duration="2378000" />
+      <workItem from="1495808709628" duration="1201000" />
+      <workItem from="1495812045288" duration="598000" />
+      <workItem from="1495909183914" duration="601000" />
+      <workItem from="1495997010538" duration="2863000" />
+      <workItem from="1496059668444" duration="596000" />
+      <workItem from="1496152629227" duration="2870000" />
+      <workItem from="1496235835390" duration="1920000" />
+      <workItem from="1496321638811" duration="3532000" />
+      <workItem from="1496491070702" duration="2931000" />
+      <workItem from="1496579345814" duration="2690000" />
+      <workItem from="1496786515247" duration="598000" />
+      <workItem from="1496919929832" duration="598000" />
+      <workItem from="1496941264809" duration="2414000" />
+      <workItem from="1497006538836" duration="839000" />
+      <workItem from="1497121046102" duration="2615000" />
+      <workItem from="1497200727753" duration="599000" />
+      <workItem from="1497271142845" duration="4808000" />
+      <workItem from="1497358449209" duration="2754000" />
+      <workItem from="1497452499399" duration="4948000" />
+      <workItem from="1497528776697" duration="6963000" />
+      <workItem from="1497614915121" duration="3702000" />
+      <workItem from="1497704049802" duration="7113000" />
+      <workItem from="1497821763094" duration="3325000" />
+      <workItem from="1497996452548" duration="2413000" />
+      <workItem from="1498053913258" duration="7372000" />
+      <workItem from="1498219919377" duration="2138000" />
+      <workItem from="1498350361031" duration="2950000" />
+      <workItem from="1498404363903" duration="5536000" />
+      <workItem from="1498484430355" duration="503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119804000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19616205" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.73131096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\Periquito\wordpress\WordPress</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/periquito/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-filmes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/taxonomy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="43" column="57" lean-forward="false" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/searchform 2.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-filmes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/archive-carros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="65" column="46" lean-forward="false" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="400" column="50" lean-forward="false" selection-start-line="400" selection-start-column="50" selection-end-line="400" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/bootstrap-basic/single-carros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="48" column="42" lean-forward="false" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/single.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/blog-templateOld.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/loop-regular.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/fullbg.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-quote.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-image.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-standard.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/format-status.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/blog-template.php" />
+    <entry file="file://G:/FRUTA E RAIZ/BLOG/florence/blogFruta/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/post-author.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/post-pagination.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/functions.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-list.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-grid.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/post-related.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/post_widget.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/searchform.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/comments.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/wp-hello-world-teste-plugin-son/wp-hello-world-teste-plugin-son.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="72" lean-forward="false" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/page.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-page.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/footer.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/index.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/related.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/portfolio-template-alt.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pagination.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/content-product.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/add-to-cart.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/wp-config.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/top-autores/shortcodes/top-author-shortcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/top-autores/top-autores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/top-autores/widgets/widget_top_autores_front_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/top-autores/widgets/WidgetTopAutores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6426">
+          <caret line="378" column="88" lean-forward="false" selection-start-line="378" selection-start-column="88" selection-end-line="378" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="391" column="111" lean-forward="false" selection-start-line="391" selection-start-column="111" selection-end-line="391" selection-end-column="111" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
